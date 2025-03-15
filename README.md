@@ -15,3 +15,4 @@ This project implements a **Word Count** program using **Hadoop MapReduce**. The
 ---
 
 ## Project Structure
+├── mapper.py # Mapper script for word counting ├── reducer.py # Reducer script for word aggregation ├── input/ # Directory containing input text files └── output/ # Directory for storing output results
